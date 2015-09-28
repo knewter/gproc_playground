@@ -1,1 +1,2 @@
-%{"gproc": {:hex, :gproc, "0.5.0"}}
+%{"gen_leader": {:git, "git://github.com/lehoff/gen_leader.git", "de57ba7eb5a88c4a3d9f12829cc85300f8f77eaf", []},
+  "gproc": {:hex, :gproc, "0.5.0"}}
